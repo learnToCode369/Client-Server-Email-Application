@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jmf">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/jmf-2_1_1e-alljava(1)/JMF-2.1.1e/lib/jmf.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
